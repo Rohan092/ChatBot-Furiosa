@@ -2,7 +2,7 @@
 Chatbot Overview: Furiosa Chat<br/>
 Furiosa Chat is an AI-powered chatbot built using Flask and Cohere's language generation API. It serves as an interactive conversational agent that can understand and respond to user inputs with natural language.
 
-# Features:
+# Features
 • Conversational AI: Utilizes Cohere's language model to generate human-like responses.<br/>
 • Dynamic Interaction: Accepts user messages via a web interface and returns meaningful replies.<br/>
 • Custom Termination: Recognizes keywords like "quit," "exit," or "bye" to gracefully end the conversation.<br/>
@@ -33,6 +33,9 @@ Routes:<br/>
 • Backend: Flask (Python) for handling HTTP requests and routing.<br/>
 • AI Engine: Cohere API for generating AI-driven responses.<br/>
 • Frontend: HTML template (FurisoaChat.html) for user interaction.<br/>
+
+# Requirment 
+API KEY : Create your own from Cohere official website.
 
 # Repository Structure
 • Data : https://github.com/Rohan092/ChatBot-Furiosa/blob/main/Furiosa%20Decode.zip<br/>
